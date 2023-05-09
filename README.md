@@ -1,6 +1,6 @@
 # IotDeviceProcessor
 Instructions:
-# Please check checkout master branch
+1 Please check checkout code master branch
 # Tools/Language useds used
     1. .net 6.0 
     2. Visual 2012
