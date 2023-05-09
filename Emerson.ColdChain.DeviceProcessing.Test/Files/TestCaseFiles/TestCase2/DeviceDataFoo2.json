@@ -1,0 +1,29 @@
+{
+  "CompanyId": 2,
+  "Company": "Foo2",
+  "Devices": [
+    {
+      "DeviceID": 1,
+      "Name": "XYZ-100",
+      "StartDateTime": "08-18-2020 10:30:00",
+      "SensorData": [
+        
+        {
+          "SensorType": "HUM",
+          "DateTime": "08-18-2020 10:35:00",
+          "Value": 1
+        },
+        {
+          "SensorType": "HUM",
+          "DateTime": "08-18-2020 10:40:00",
+          "Value": 2
+        },
+        {
+          "SensorType": "HUM",
+          "DateTime": "08-18-2020 10:45:00",
+          "Value": 3
+        }
+      ]
+    }
+  ]
+}
